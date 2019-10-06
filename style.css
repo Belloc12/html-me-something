@@ -1,0 +1,25 @@
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+
+  h1 {
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+  }
+
+  html {
+    background-color: grey;
+  }
+
+  p.name {
+    color: white;
+  }
+
+  #title {
+    font-style: italic;
+    font-size: 20px;
+  }
